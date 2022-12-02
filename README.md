@@ -57,25 +57,25 @@ Customer yang berhenti berlangganan (churn) kebanyakan memiliki masa berlanggana
 - **Customer Churn Based on Cashback**
 Customer yang memperoleh cashback bonus dengan kategori medium (<200) lebih banyak yang memilih untuk berhenti berlangganan (churn)
 
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/2%20-%20average%20tenure%20based%20on%20cashback%20category.jpg?token=A3JF6OHD6QKMGDBXKUFAPOTDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/average%20tenure%20based%20on%20cashback%20category.jpg?raw=true)
 
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/3%20-%20Customers%20with%20lower%20cashback%20are%20more%20likely%20to%20churn.jpg?token=A3JF6OGT3OPKH3XHOOBGKJ3DRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/Customers%20with%20lower%20cashback%20are%20more%20likely%20to%20churn.jpg?raw=true)
 
 
 - **Customer Churn Based on Complain**
 Menunjukkan bahwa customer yang mengajukan complain lalu berhenti berlangganan (churn) jumlahnya lebih banyak 31%.
 
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/4%20-%20Customer%20churn%20based%20on%20complain.jpg?token=A3JF6OANYQLXZK5EZVZVFSTDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/Customer%20churn%20based%20on%20complain.jpg?raw=true)
 
 - **Customer Churn Based on Order Category**
 Kategori order customer yang paling banyak mengajukan komplain adalah jenis **"Grocery"**, yang selanjutnya diikuti oleh jumlah komplain customer yang pernah membeli jenis **"Mobile phone"** serta **"Fashion"**.
 
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/6%20-%20Complain%20rate%20based%20on%20order%20category.jpg?token=A3JF6OATJU3HFTTHOKO6PALDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/Complain%20rate%20based%20on%20order%20category.jpg?raw=true)
 
 - **Churn Rate Based on Order Category**
 Apabila melihat dari jumlah churn rate berdasarkan Order Category ternyata customer yang pernah membeli jenis **"Mobile Phone"** adalah yang paling banyak churn mencapai 27.4%. 
 
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/5%20-%20Churn%20rate%20based%20on%20order%20category.jpg?token=A3JF6OFCWVKJBTOGQ3DEB4LDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/Churn%20rate%20based%20on%20order%20category.jpg?raw=true)
 
 
 ## **4. Machine Learning Model**
@@ -108,7 +108,7 @@ Apabila melihat dari jumlah churn rate berdasarkan Order Category ternyata custo
 
 
 ## **5. Feature Importance**
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/Feature%20importance.jpg?token=A3JF6OGQ6CIEALGE6OGTQWLDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/Feature%20importance.jpg?raw=true)
 
 - Feature yang paling penting berdasarkan shap value adalah **Tenure** dan **Complain**. 
 
