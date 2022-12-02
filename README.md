@@ -52,7 +52,7 @@ Tahap ini terdapat hasil setelah dilakukan modelling dengan beberapa asumsi, kem
 ## **3. Data Insights**
 - **Customer Churn Based on Tenure**
 Customer yang berhenti berlangganan (churn) kebanyakan memiliki masa berlangganan hanya di 2 bulan pertama saja.
-![](https://raw.githubusercontent.com/tevaniolinepdn/Image-Insight/3cc250502caeb553c8b4e3588defb2663bcfb208/1.jpg?token=A3JF6OCLPRO7KIHAEBV6WKLDRG6AC)
+![](https://github.com/tevaniolinepdn/Final-Project-_-Customer-Churn-Prediction-Analysis/blob/main/1.jpg?raw=true)
 
 - **Customer Churn Based on Cashback**
 Customer yang memperoleh cashback bonus dengan kategori medium (<200) lebih banyak yang memilih untuk berhenti berlangganan (churn)
